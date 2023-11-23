@@ -27,3 +27,6 @@ pdf utilizado para simular o resultado de exame foi encontrado na internet em um
 Enrico Enricco Rossi - RM 551717
 
 Gabriel Marquez Trevisan - RM 99227
+
+
+LINK DEPLOY: https://gs-sana-vitaf.vercel.app
