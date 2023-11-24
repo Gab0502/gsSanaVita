@@ -19,7 +19,7 @@ function Login() {
     e.preventDefault();
   
     try {
-      const response = await fetch("https://sana-vita-json-server.vercel.app/user");
+      const response = await fetch("http://localhost:3000/user");
       if (response.ok) {
         const users = await response.json();
         console.log(users);
